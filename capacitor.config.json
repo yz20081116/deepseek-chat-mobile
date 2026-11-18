@@ -1,0 +1,12 @@
+{
+  "appId": "app.deepseek.chat",
+  "appName": "DeepSeek Chat",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true
+  }
+}
